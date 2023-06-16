@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "84df65b95fac27ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1df8f79a1dc9566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "456e73df7fa7b5e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df1d6b20e6185670",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "838330ad3029ca4d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d3e4627166cce2d1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "59c3cb9bc1b20468",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f452bce256d1634a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fc8133244ad93db4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "69bfda09312e3c3e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1eda8de73523c9a8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ff890d1be35aa757",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "456e73df7fa7b5e2",
+  "lastOpenFiles": [
+    "Recipes/Honey Mead.md",
+    "Templates/log.md",
+    "Templates/recipe.md",
+    "Recipes/Blood Mead.md",
+    "Templates/date.md",
+    "Templates",
+    "README.md",
+    "Recipes",
+    "Logs"
+  ]
+}
