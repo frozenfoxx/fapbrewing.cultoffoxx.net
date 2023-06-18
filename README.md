@@ -1,2 +1,3 @@
 # fapbrewing.cultoffoxx.net
-Log of brewing for Frozen and Princess Brewing
+
+Recipes and log of brewing for Frozen and Princess Brewing.

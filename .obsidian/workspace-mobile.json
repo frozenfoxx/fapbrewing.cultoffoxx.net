@@ -11,8 +11,12 @@
             "id": "456e73df7fa7b5e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Blood Mead - FaP Brewing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Recipes/Blood Mead - FaP Brewing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Recipes/Blood Mead - FaP Brewing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Recipes/Blood Mead - FaP Brewing.md"
+          }
         }
       }
     ],
@@ -125,13 +133,33 @@
   },
   "active": "456e73df7fa7b5e2",
   "lastOpenFiles": [
-    "Recipes/Honey Mead.md",
-    "Templates/log.md",
-    "Templates/recipe.md",
-    "Recipes/Blood Mead.md",
-    "Templates/date.md",
+    "Recipes/Honey Mead - FaP Brewing.md",
+    "Logs/2022-12-09.md",
+    "Logs/2022-11-13.md",
+    "Logs/2022-12-08.md",
+    "Logs/2022-11-16.md",
+    "Logs/2022-11-15.md",
+    "Logs/2022-11-14.md",
+    "Logs/2022-10-23.md",
+    "Logs/2022-02-06 2.md",
+    "Recipes/Honey Mead - Homebrewing Adventures.md",
+    "Logs/2022-02-06 1.md",
+    "Logs/2022-01-07.md",
+    "Logs/2022-01-10.md",
+    "Logs/2022-01-08.md",
+    "Logs/2022-01-09.md",
+    "Recipes/Honey Mead - Adventures in Homebrewing.md",
+    "Recipes/Blood Mead - FaP Brewing.md",
+    "Logs/2023-06-15.md",
+    "Recipes/Blueberry Mead - Adventures in Homebrewing.md",
+    "Logs/2022-08-16.md",
+    "Logs/2022-08-13.md",
+    "Logs/2022-02-06.md",
+    "Logs/2021-12-05.md",
+    "Logs/2021-11-17.md",
+    "Logs/2021-11-16.md",
+    "Logs/2021-11-15.md",
     "Templates",
-    "README.md",
     "Recipes",
     "Logs"
   ]
