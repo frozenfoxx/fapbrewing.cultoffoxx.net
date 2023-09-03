@@ -6,7 +6,7 @@ publish: false
 **Yield**:: 2 gallons
 
 # Ingredients
-- 7lbs Buckwheat honey
+- 7lbs Wildflower honey
 - 1lb Blackberry honey (Snohomish Bee Company)
 - [Lalvin ICV-D47 yeast](https://www.amazon.com/Lalvin-D-47-Wine-Yeast-Pack/dp/B0080XSES4/ref=asc_df_B0080XSES4?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80401905901884&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584001431745833&psc=1)
 - 2tsp [Fermaid K](https://www.amazon.com/Fermaid-Yeast-Nutrient-Kombucha-Distributors/dp/B0BQ5DBH8Y/ref=sr_1_4?crid=TZL03JNR2WF3&keywords=fermaid+k&qid=1686941332&rdc=1&sprefix=fermaid+%2Caps%2C172&sr=8-4)
@@ -33,7 +33,7 @@ In a separate container (yeast):
 - Let sit for 30 min
 
 In fermentation bucket:
-- Add 7lbs buckwheat honey
+- Add 7lbs wildflower honey
 - Add water (container)
 - Ensure temperature is below 80F
 - Stir and dissolve honey
