@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2023-09-02.md",
+                "file": "Logs/2023-09-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Logs/2023-09-02.md",
+            "file": "Logs/2023-09-04.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Logs/2023-09-02.md",
+            "file": "Logs/2023-09-04.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Logs/2023-09-02.md"
+            "file": "Logs/2023-09-04.md"
           }
         }
       }
@@ -145,8 +145,10 @@
   },
   "active": "456e73df7fa7b5e2",
   "lastOpenFiles": [
-    "Recipes/Honey Mead - FaP Brewing.md",
+    "Logs/2023-09-03.md",
+    "Logs/2023-09-04.md",
     "Logs/2023-09-02.md",
+    "Recipes/Honey Mead - FaP Brewing.md",
     "Recipes/Honey Mead - Adventures in Homebrewing.md",
     "Recipes/Blood Mead - FaP Brewing.md",
     "Logs/2022-11-15.md",
@@ -169,8 +171,6 @@
     "Logs/2022-08-13.md",
     "Logs/2022-02-06.md",
     "Logs/2021-12-05.md",
-    "Logs/2021-11-17.md",
-    "Logs/2021-11-16.md",
     "Templates",
     "Recipes",
     "Logs"
