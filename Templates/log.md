@@ -1,8 +1,7 @@
 ---
-publish: false
+tags:
+  - log
 ---
-**Tags**:: #log
-
 # Description
 **Date**:: {{date}}
 **Recipe**:: 

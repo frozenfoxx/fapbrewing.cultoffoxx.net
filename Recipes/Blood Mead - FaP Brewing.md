@@ -6,7 +6,7 @@ publish: false
 **Yield**:: 2 gallons
 
 # Ingredients
-- 7lbs Buckwheat honey
+- 7lbs wildflower honey
 - 1lb Blackberry honey (Snohomish Bee Company)
 - 6lbs cherries (dark sweet)
 - [Lalvin ICV-D47 yeast](https://www.amazon.com/Lalvin-D-47-Wine-Yeast-Pack/dp/B0080XSES4/ref=asc_df_B0080XSES4?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80401905901884&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584001431745833&psc=1)
