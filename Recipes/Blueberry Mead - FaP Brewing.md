@@ -22,7 +22,7 @@
 
 # Recipe
 In a separate container (water):
-- Put 0.5 Campden tablet in water
+- Put Campden tablets in water
 - Let sit for 60 minutes
 
 In a separate container (yeast):
@@ -35,7 +35,7 @@ In the fermentation bucket:
 - Pour honey into fermentation bucket
 - Pour water into fermentation bucket while stirring honey
 	- Just enough until the honey is dissolved
-- Add 1lb of blueberries
+- Add 2lb of blueberries
 - Pour the rest of the water from the water container into the fermentation bucket
 - Take a measurement of the gravity
 - Stir vigorously, enough to create bubbles
@@ -53,7 +53,7 @@ In the fermentation bucket:
 	- reseal
 	- place airlock
 - After one month, rack to carboy
-- Add 3lbs blueberries to carboy
+- Add 6lbs blueberries to carboy
 - Take a measurement of the gravity
 - Seal
 - After one more month, the mead is ready to be bottled and have a final gravity measurement

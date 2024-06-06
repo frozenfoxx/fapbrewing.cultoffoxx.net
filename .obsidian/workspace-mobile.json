@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Blueberry Mead - FaP Brewing.md",
+                "file": "Logs/2024-06-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Honey Mead - FaP Brewing.md",
+                "file": "Logs/2024-06-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Blueberry Mead - FaP Brewing.md",
+            "file": "Logs/2024-06-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Blueberry Mead - FaP Brewing.md",
+            "file": "Logs/2024-06-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Blueberry Mead - FaP Brewing.md"
+            "file": "Logs/2024-06-05.md"
           }
         }
       }
@@ -143,10 +144,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "456e73df7fa7b5e2",
+  "active": "30618bd7438930be",
   "lastOpenFiles": [
-    "Recipes/Honey Mead - FaP Brewing.md",
+    "Logs/2024-06-03.md",
+    "Logs/2024-06-05.md",
+    "Logs/2024-06-04.md",
+    "Logs/2024-06-02.md",
     "Recipes/Blueberry Mead - FaP Brewing.md",
+    "Recipes/Honey Mead - FaP Brewing.md",
+    "Logs/2021-11-17.md",
+    "Logs/2022-01-10.md",
+    "Logs/2022-01-09.md",
+    "Logs/2022-08-13.md",
+    "Logs/2022-08-16.md",
+    "Logs/2022-10-23.md",
+    "Logs/2022-11-13.md",
+    "Logs/2022-11-14.md",
+    "Logs/2022-02-06 1.md",
+    "Logs/2022-11-15.md",
+    "Logs/2022-11-16.md",
+    "Logs/2022-12-09.md",
     "Logs/2023-09-02.md",
     "Logs/2023-09-03.md",
     "Logs/2023-12-31.md",
@@ -154,23 +171,7 @@
     "Templates/log.md",
     "Logs/2023-10-05.md",
     "Logs/2023-06-15.md",
-    "Logs/2022-02-06 1.md",
     "Logs/2022-02-06 2.md",
-    "Logs/2022-08-13.md",
-    "Logs/2022-08-16.md",
-    "Logs/2022-10-23.md",
-    "Logs/2022-11-16.md",
-    "Logs/2023-09-04.md",
-    "Logs/2022-12-09.md",
-    "Recipes/Blood Mead - FaP Brewing.md",
-    "Recipes/Honey Mead - Adventures in Homebrewing.md",
-    "Logs/2022-11-15.md",
-    "Logs/2022-11-13.md",
-    "Logs/2022-12-08.md",
-    "Logs/2022-11-14.md",
-    "Recipes/Honey Mead - Homebrewing Adventures.md",
-    "Logs/2022-01-07.md",
-    "Logs/2022-01-10.md",
     "Templates",
     "Recipes",
     "Logs"
