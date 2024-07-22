@@ -43,7 +43,7 @@ In a saucepan:
 - Drain back into the water container
 
 In fermentation bucket:
-- Add 7lbs buckwheat honey
+- Add 7lbs wildflower honey
 - Add dark sweet cherries
 - Add water (container)
 - Ensure temperature is below 80F
