@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Blueberry Mead - FaP Brewing.md",
+                "file": "Recipes/Blood Mead - FaP Brewing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Blueberry Mead - FaP Brewing.md",
+            "file": "Recipes/Blood Mead - FaP Brewing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Blueberry Mead - FaP Brewing.md",
+            "file": "Recipes/Blood Mead - FaP Brewing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Blueberry Mead - FaP Brewing.md"
+            "file": "Recipes/Blood Mead - FaP Brewing.md"
           }
         }
       }
@@ -146,9 +146,9 @@
   },
   "active": "30618bd7438930be",
   "lastOpenFiles": [
+    "Recipes/Blueberry Mead - FaP Brewing.md",
     "Logs/2024-07-20.md",
     "Logs/2024-07-17.md",
-    "Recipes/Blueberry Mead - FaP Brewing.md",
     "Logs/2024-06-05.md",
     "Logs/2024-06-03.md",
     "Logs/2024-06-04.md",
