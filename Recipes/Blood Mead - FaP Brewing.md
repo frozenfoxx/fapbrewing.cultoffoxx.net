@@ -1,6 +1,3 @@
----
-publish: false
----
 **Tags**:: #mead 
 **Date**:: 2022-11-13
 **Yield**:: 2 gallons
@@ -8,7 +5,7 @@ publish: false
 # Ingredients
 - 7lbs wildflower honey
 - 1lb Blackberry honey (Snohomish Bee Company)
-- 6lbs cherries (dark sweet)
+- 3.75lbs cherries (dark sweet)
 - [Lalvin ICV-D47 yeast](https://www.amazon.com/Lalvin-D-47-Wine-Yeast-Pack/dp/B0080XSES4/ref=asc_df_B0080XSES4?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80401905901884&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584001431745833&psc=1)
 - 2tsp [Fermaid K](https://www.amazon.com/Fermaid-Yeast-Nutrient-Kombucha-Distributors/dp/B0BQ5DBH8Y/ref=sr_1_4?crid=TZL03JNR2WF3&keywords=fermaid+k&qid=1686941332&rdc=1&sprefix=fermaid+%2Caps%2C172&sr=8-4)
 	- 5 equal parts
@@ -25,22 +22,22 @@ publish: false
 - 3 piece airlock
 
 # Recipe
-In a separate container (water):
-- Add 2 gallons of water, warm
-- Add 2 Campden tablets
-- Let sit 30min
-
 In a separate container (yeast):
 - Reactivate yeast
 - Seal
 - Let sit for 30 min
 
-In a saucepan:
+In a soup pan:
 - Add .75gal of the water (container)
 - Add dried hibiscus
 - Bring to a boil
 - Immediately cut heat and let steep for 30min
 - Drain back into the water container
+
+In a separate container (water):
+- Fill up the remainder to two gallons of water, warm
+- Add 2 Campden tablets
+- Let sit 30min
 
 In fermentation bucket:
 - Add 7lbs wildflower honey

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Blood Mead - FaP Brewing.md",
+                "file": "Logs/2024-09-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Blood Mead - FaP Brewing.md",
+            "file": "Logs/2024-09-17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Blood Mead - FaP Brewing.md",
+            "file": "Logs/2024-09-17.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Blood Mead - FaP Brewing.md"
+            "file": "Logs/2024-09-17.md"
           }
         }
       }
@@ -146,6 +146,10 @@
   },
   "active": "30618bd7438930be",
   "lastOpenFiles": [
+    "Logs/2024-09-16.md",
+    "Logs/2024-09-17.md",
+    "Logs/2024-09-15.md",
+    "Recipes/Blood Mead - FaP Brewing.md",
     "Recipes/Blueberry Mead - FaP Brewing.md",
     "Logs/2024-07-20.md",
     "Logs/2024-07-17.md",
@@ -168,10 +172,6 @@
     "Logs/2022-12-09.md",
     "Logs/2023-09-02.md",
     "Logs/2023-09-03.md",
-    "Logs/2023-12-31.md",
-    "Logs/2023-10-08.md",
-    "Templates/log.md",
-    "Logs/2023-10-05.md",
     "Templates",
     "Recipes",
     "Logs"
